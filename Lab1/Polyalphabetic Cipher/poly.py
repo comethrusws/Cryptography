@@ -17,10 +17,8 @@ def skibidi(plaintext, keyword):
     return secret_text_hehe
 
 
-# get inputs from user
 plaintext = input("enter plaintext: ")
 keyword = input("enter key: ")
 
-# encrypt and print the result
 result = skibidi(plaintext, keyword)
 print(f"encrypted text: {result}")
