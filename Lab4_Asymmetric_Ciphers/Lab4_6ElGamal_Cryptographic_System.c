@@ -1,4 +1,3 @@
-//Implement ElGamal Cryptographic System.
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
